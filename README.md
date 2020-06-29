@@ -1,6 +1,6 @@
 
 ## LeagueOfTags - League Of Legends API App
- Built this project for myself to avoid using thirdparty API programs for LOL. Open-Source League Of Tags Client for matchmaking, runes, champions, stats etc.
+ Built this project for myself to avoid using thirdparty API programs for LoL. Open-Source League Of Tags Client for matchmaking, runes, champions, stats etc.
 
 ### Built With
 - Electron
